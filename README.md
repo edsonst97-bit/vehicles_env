@@ -21,3 +21,7 @@ El proyecto ha sido desarrollado utilizando el stack de datos de **Python**:
 *   **[Pandas](https://pandas.pydata.org)**: Para el procesamiento y limpieza de los datos de `vehicles_us.csv`.
 *   **[Plotly Express](https://plotly.com)**: Para la generación de gráficos interactivos y responsivos.
 *   **[Statsmodels](https://www.statsmodels.org)**: Utilizado como motor para el cálculo de tendencias de regresión lineal.
+
+URL de la APP desplegada en Render:
+
+* **https://vehicles-env-mbm1.onrender.com**
